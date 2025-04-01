@@ -14,23 +14,12 @@ Embora eu tenha feito muitos outros exercícios, aqui estão os que considero ma
 
    ```bash
    git clone https://github.com/jhonnyxjj/javascript-logic-challenges.git
-<<<<<<< HEAD:readme.md
    ```
 2. Caso algum exercício use bibliotecas externas do NPM, instale as dependências:
-   ```bash
-   npm install OR npm i
+   ```
+   npm install
    ```
   ## 📜 Licença
-Este repositório é de uso pessoal, sem fins comerciais. Você pode usar os exercícios para fins educacionais ou como referência.
-  
-=======
-
-
-2. Caso algum exercício use bibliotecas externas do NPM, instale as dependências:
-```
-npm install
-```
-## 📜 Licença
 Este repositório é de uso pessoal, sem fins comerciais. Você pode usar os exercícios para fins educacionais ou como referência.
 
 
