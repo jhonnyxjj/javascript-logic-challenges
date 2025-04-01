@@ -19,6 +19,7 @@ Embora eu tenha feito muitos outros exercícios, aqui estão os que considero ma
 2. Caso algum exercício use bibliotecas externas do NPM, instale as dependências:
    ```bash
    npm install OR npm i
+   ```
   ## 📜 Licença
 Este repositório é de uso pessoal, sem fins comerciais. Você pode usar os exercícios para fins educacionais ou como referência.
   
@@ -31,5 +32,5 @@ npm install
 ```
 ## 📜 Licença
 Este repositório é de uso pessoal, sem fins comerciais. Você pode usar os exercícios para fins educacionais ou como referência.
->>>>>>> 0bf4d2621bb9f7831ade7dd934259639df510c61:readme
+
 
