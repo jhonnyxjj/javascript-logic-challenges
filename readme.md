@@ -18,7 +18,6 @@ Existem muitos outros exercícios que já fiz, mas escolhi colocar apenas os que
 2. Caso algum exercício use bibliotecas externas do NPM, instale as dependências:
    ```bash
    npm install OR npm i
-   
   ## 📜 Licença
 Este repositório é de uso pessoal, sem fins comerciais. Você pode usar os exercícios para fins educacionais ou como referência.
   
